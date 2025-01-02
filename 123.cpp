@@ -23,6 +23,8 @@ int main()
     cin.tie(0), cout.tie(0);
     cin >> n;
     cout << n;
-
+    int a,b;
+    cin>>a>>b;
+    cout<<a+n;
     return 0;
 }
